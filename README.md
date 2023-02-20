@@ -4,5 +4,5 @@ Website Login Dicoding
 --
 *tulisan miring*
 Web Login Dicoding
--login
--ada pop up jika email salah
+- Login
+- Ada pop up jika email salah
